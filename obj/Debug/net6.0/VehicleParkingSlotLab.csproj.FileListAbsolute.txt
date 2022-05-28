@@ -1,0 +1,15 @@
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\VehicleParkingSlotLab.csproj.AssemblyReference.cache
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\VehicleParkingSlotLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\VehicleParkingSlotLab.AssemblyInfoInputs.cache
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\VehicleParkingSlotLab.AssemblyInfo.cs
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\VehicleParkingSlotLab.csproj.CoreCompileInputs.cache
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\bin\Debug\net6.0\VehicleParkingSlotLab.exe
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\bin\Debug\net6.0\VehicleParkingSlotLab.deps.json
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\bin\Debug\net6.0\VehicleParkingSlotLab.runtimeconfig.json
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\bin\Debug\net6.0\VehicleParkingSlotLab.dll
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\bin\Debug\net6.0\ref\VehicleParkingSlotLab.dll
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\bin\Debug\net6.0\VehicleParkingSlotLab.pdb
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\VehicleParkingSlotLab.dll
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\ref\VehicleParkingSlotLab.dll
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\VehicleParkingSlotLab.pdb
+C:\Users\taimo\source\repos\basic-programs\VehicleParkingSlotLab\obj\Debug\net6.0\VehicleParkingSlotLab.genruntimeconfig.cache
